@@ -1,2 +1,2 @@
-/api/* https://justbuyserver.onrender.com/:splat 200
+/api/v1/* https://justbuyserver.onrender.com/:splat 200
 /* /index.html 200          
